@@ -25,4 +25,4 @@ That will print the number 10. Hopefully that will be easy to understand, you fi
 
 >fite me scrub
 >
->![scrubo](https://2static3.fjcdn.com/thumbnails/comments/Fite+me+scrub+lord+im+ripped+_0582ba9e74ea262698024ce4b05471110.gif)
+>![scrubo](http://i.imgur.com/wnIaRyJ.gif)
