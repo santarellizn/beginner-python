@@ -23,5 +23,5 @@ print variable
 ```
 That will print the number 10. Hopefully that will be easy to understand, you filthy scrub.
 
->you_irl
->![scrubo](http://s2.quickmeme.com/img/1e/1e17e1e3fda49ab367bc18414401ae8328584ff7639ce7fa9e0f8a2eeb495310.jpg)
+>fite me scrub
+>![scrubo](https://2static3.fjcdn.com/thumbnails/comments/Fite+me+scrub+lord+im+ripped+_0582ba9e74ea262698024ce4b05471110.gif)
