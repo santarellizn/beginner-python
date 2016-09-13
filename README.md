@@ -30,3 +30,42 @@ That will print the number 10. Hopefully that will be easy to understand, you fi
 ###Types
 
 Variables can either be strings, integers, boolean statements, or floating point integers.
+
+##Conditionals
+
+###Expressions
+
+An expression in python is created with the keywords and, or, not, or is. Expressions compare one value to another and return a result in response. Here is an example of a boolean expression.
+```
+True = True
+```
+In this instance, the expression would return true.
+
+###Branching
+One of the prominent methods of branching expressions used in python is the if statement. Here is an example.
+```
+if variable = 1:
+  example code
+```
+In this example, if the variable is equal to 1, it will run the example code. This example code can be anything you need to complete your task.
+
+The else statement is also an expression and is used in conjunction with the if statement
+```
+if variable = 1:
+  example code
+  else:
+    other code
+```
+If the variable is not equal to one, the other code would run instead of the example code, at least in this example.
+##methods
+A method is something that you do in order to accomplish a task. For example, if the task was to see if the variable a is greater than variable a, you could implement a method in order to accomplish this.
+```
+a = 1
+b = 2
+
+if a > b:
+  return True
+  else:
+    return False
+```
+This method solves the problem efficiently and allows you to accomplish the task.
