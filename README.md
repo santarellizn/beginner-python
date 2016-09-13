@@ -27,4 +27,6 @@ That will print the number 10. Hopefully that will be easy to understand, you fi
 >
 >![scrubo](https://2static3.fjcdn.com/thumbnails/comments/Fite+me+scrub+lord+im+ripped+_0582ba9e74ea262698024ce4b05471110.gif)
 
-http://i.imgur.com/wnIaRyJ.gif
+###Types
+
+Variables can either be strings, integers, boolean statements, or floating point integers.
