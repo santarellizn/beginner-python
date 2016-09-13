@@ -57,7 +57,7 @@ if variable = 1:
     other code
 ```
 If the variable is not equal to one, the other code would run instead of the example code, at least in this example.
-##methods
+##Methods
 A method is something that you do in order to accomplish a task. For example, if the task was to see if the variable a is greater than variable a, you could implement a method in order to accomplish this.
 ```
 a = 1
